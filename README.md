@@ -48,8 +48,19 @@ Para ejecutar y/o modificar el proyecto:
 ![alt text](image-5.png)
 
 2. Para actualizar automáticamente la página al modificar `app.js`, instala la extensión **Live Server** en VSCode y abre `index.html` con ella.
+
+![alt text](image-7.png)
+
+---------------------
+
+![alt text](image-6.png)
+
 3. Para analizar la lógica del juego en el navegador, usa **Google Chrome** y accede a la consola de desarrolladores:
    - **Menú → Más herramientas → Herramientas para desarrolladores → Consola**
+  
+![alt text](image-8.png)
+
+![alt text](image-9.png)
 
 ## Tecnologías utilizadas
 
