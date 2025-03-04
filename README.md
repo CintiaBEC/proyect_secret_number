@@ -70,4 +70,7 @@ Para ejecutar y/o modificar el proyecto:
 
 ## Personas contribuyentes y desarrolladores
 
-La cátedra proporcionó los archivos base `style.css` e `index.html`. El archivo `app.js` fue desarrollado y documentado por **mí** siguiendo la guía de las clases asincrónicas.
+La cátedra integrada por los profesores Leonardo Castillo Lacruz y Christian Velasco, proporcionó los archivos base `style.css` e `index.html`. El archivo `app.js` fue desarrollado y documentado por **mí** siguiendo la guía de las clases asincrónicas.
+
+| [<img src="https://avatars.githubusercontent.com/u/4803845?v=4" width=115><br><sub>Leonardo Castillo Lacruz</sub>](https://github.com/ljcl79) |  [<img src="https://avatars.githubusercontent.com/u/29123800?v=4" width=115><br><sub>Christian Velasco</sub>](https://github.com/christianpva) |  [<img src="https://avatars.githubusercontent.com/u/110127199?v=4" width=115><br><sub>Cintia E. Crisie</sub>](https://github.com/CintiaBEC) |
+| :---: | :---: | :---: |
